@@ -1,16 +1,19 @@
-##🚀 TriJector
+🚀 TriJector
 
-A lightweight loader demonstrating the 3 fundamental process injection techniques on Windows. Ideal for red team research, malware analysis, or use as a base for further enhancements.
-🔧 Features:
+TriJector is a lightweight Windows loader that demonstrates three core process injection techniques. Built primarily for educational and red team research use, this tool offers a modular and clear starting point for deeper exploration into advanced injection and evasion methods.
 
-    Win32 API Injection
+🔧 Features
 
-    NTAPI Injection
+• Win32 API Injection
+• NTAPI Injection
+• Direct Syscall Injection
 
-    Direct Syscall Injection
-##💡 Purpose:
+💡 Purpose
 
-For educational use and experimentation. Helps learners understand the mechanics behind process injection and how to build modular loaders.
-##⚠️ Disclaimer:
+This project is meticulously designed to:
 
-This project is intended for ethical research and learning purposes only. Do not use it for malicious activity.
+    Help students and security researchers grasp the intricacies of low-level Windows injection methods.
+
+    Serve as a robust base for developing more sophisticated loaders, bypass techniques, or custom implants.
+
+    Clearly demonstrate the operational distinctions between userland (Win32 API), native API, and direct syscall injection.
