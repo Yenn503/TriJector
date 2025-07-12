@@ -1,0 +1,87 @@
+﻿  Assembling syscallStubs.asm...
+  Inject.c
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(24,12): warning C4566: character represented by universal-character-name '\u256D' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(24,12): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(24,12): warning C4566: character represented by universal-character-name '\u256E' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(25,12): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(25,12): warning C4566: character represented by universal-character-name '\u250C' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(25,12): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(25,12): warning C4566: character represented by universal-character-name '\u2510' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(26,12): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(27,12): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(28,12): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(28,12): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(28,12): warning C4566: character represented by universal-character-name '\u2514' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(28,12): warning C4566: character represented by universal-character-name '\u2518' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(29,12): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(30,12): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(31,12): warning C4566: character represented by universal-character-name '\u2502' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(32,12): warning C4566: character represented by universal-character-name '\u2570' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(32,12): warning C4566: character represented by universal-character-name '\u2500' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(32,12): warning C4566: character represented by universal-character-name '\u256F' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(33,12): warning C4566: character represented by universal-character-name '\u2550' cannot be represented in the current code page (1252)
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(45,9): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(45,9): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(45,9): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'long'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(45,9): warning C4313: 'fprintf': '%s' in format string conflicts with argument 2 of type 'long'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(45,9): warning C4473: 'fprintf' : not enough arguments passed for format string
+      C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(45,9):
+      placeholders and their parameters expect 4 variadic arguments, but 3 were provided
+      C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(45,9):
+      the missing variadic argument 4 is required by format string '%lx'
+  
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(51,9): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(51,9): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(51,9): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'long'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(51,9): warning C4313: 'fprintf': '%s' in format string conflicts with argument 2 of type 'long'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(51,9): warning C4473: 'fprintf' : not enough arguments passed for format string
+      C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(51,9):
+      placeholders and their parameters expect 4 variadic arguments, but 3 were provided
+      C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(51,9):
+      the missing variadic argument 4 is required by format string '%lx'
+  
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(57,9): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(57,9): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(57,9): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'long'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(57,9): warning C4313: 'fprintf': '%s' in format string conflicts with argument 2 of type 'long'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(57,9): warning C4473: 'fprintf' : not enough arguments passed for format string
+      C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(57,9):
+      placeholders and their parameters expect 4 variadic arguments, but 3 were provided
+      C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(57,9):
+      the missing variadic argument 4 is required by format string '%lx'
+  
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(62,9): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(62,9): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'char *'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(62,9): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'long'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(62,9): warning C4313: 'fprintf': '%s' in format string conflicts with argument 2 of type 'long'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(62,9): warning C4473: 'fprintf' : not enough arguments passed for format string
+      C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(62,9):
+      placeholders and their parameters expect 4 variadic arguments, but 3 were provided
+      C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(62,9):
+      the missing variadic argument 4 is required by format string '%lx'
+  
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(67,5): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'SIZE_T'
+      C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(67,5):
+      consider using '%lld' in the format string
+      C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(67,5):
+      consider using '%Id' in the format string
+      C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(67,5):
+      consider using '%I64d' in the format string
+  
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(85,3): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'long'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(85,3): warning C4313: 'fprintf': '%s' in format string conflicts with argument 2 of type 'long'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(85,3): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'LPCSTR'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(85,3): warning C4313: 'fprintf': '%d' in format string conflicts with argument 3 of type 'LPCSTR'
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(85,3): warning C4473: 'fprintf' : not enough arguments passed for format string
+      C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(85,3):
+      placeholders and their parameters expect 4 variadic arguments, but 3 were provided
+      C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(85,3):
+      the missing variadic argument 4 is required by format string '%lx'
+  
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\Inject.c(111,28): warning C4312: 'type cast': conversion from 'const DWORD' to 'HANDLE' of greater size
+  main.c
+  NTinject.c
+C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\NTinject.c(86,28): warning C4312: 'type cast': conversion from 'const DWORD' to 'HANDLE' of greater size
+  WIN32Inject.c
+  Generating Code...
+  DIRECT SYSCALLS.vcxproj -> C:\Users\lewis\Desktop\Malware Development\DIRECT SYSCALLS\DIRECT SYSCALLS\TriJector\x64\Debug\Tri-Jector.exe

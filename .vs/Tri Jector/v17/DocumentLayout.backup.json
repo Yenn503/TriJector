@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lewis\\Desktop\\Malware Development\\DIRECT SYSCALLS\\DIRECT SYSCALLS\\TriJector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BE49C9-EEE8-44CC-B17D-2A23012544C4}|DIRECT SYSCALLS.vcxproj|C:\\Users\\lewis\\Desktop\\Malware Development\\DIRECT SYSCALLS\\DIRECT SYSCALLS\\TriJector\\WIN32Inject.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4BE49C9-EEE8-44CC-B17D-2A23012544C4}|DIRECT SYSCALLS.vcxproj|solutionrelative:WIN32Inject.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BE49C9-EEE8-44CC-B17D-2A23012544C4}|DIRECT SYSCALLS.vcxproj|C:\\Users\\lewis\\Desktop\\Malware Development\\DIRECT SYSCALLS\\DIRECT SYSCALLS\\TriJector\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4BE49C9-EEE8-44CC-B17D-2A23012544C4}|DIRECT SYSCALLS.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\lewis\\Desktop\\Malware Development\\DIRECT SYSCALLS\\DIRECT SYSCALLS\\TriJector\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\lewis\\Desktop\\Malware Development\\DIRECT SYSCALLS\\DIRECT SYSCALLS\\TriJector\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-12T07:23:53.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WIN32Inject.c",
+              "DocumentMoniker": "C:\\Users\\lewis\\Desktop\\Malware Development\\DIRECT SYSCALLS\\DIRECT SYSCALLS\\TriJector\\WIN32Inject.c",
+              "RelativeDocumentMoniker": "WIN32Inject.c",
+              "ToolTip": "C:\\Users\\lewis\\Desktop\\Malware Development\\DIRECT SYSCALLS\\DIRECT SYSCALLS\\TriJector\\WIN32Inject.c",
+              "RelativeToolTip": "WIN32Inject.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-12T07:23:53.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
